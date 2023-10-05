@@ -1,0 +1,31 @@
+C:\Users\Josh\source\repos\jh netcore app\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Josh\source\repos\jh netcore app\bin\Release\net6.0\appsettings.json
+C:\Users\Josh\source\repos\jh netcore app\bin\Release\net6.0\jh netcore app.staticwebassets.runtime.json
+C:\Users\Josh\source\repos\jh netcore app\bin\Release\net6.0\jh netcore app.exe
+C:\Users\Josh\source\repos\jh netcore app\bin\Release\net6.0\jh netcore app.deps.json
+C:\Users\Josh\source\repos\jh netcore app\bin\Release\net6.0\jh netcore app.runtimeconfig.json
+C:\Users\Josh\source\repos\jh netcore app\bin\Release\net6.0\jh netcore app.dll
+C:\Users\Josh\source\repos\jh netcore app\bin\Release\net6.0\jh netcore app.pdb
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\jh netcore app.csproj.AssemblyReference.cache
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\jh netcore app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\jh netcore app.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\jh netcore app.AssemblyInfo.cs
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\jh netcore app.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\jh netcore app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\jh netcore app.RazorAssemblyInfo.cache
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\jh netcore app.RazorAssemblyInfo.cs
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\staticwebassets\msbuild.jh netcore app.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\staticwebassets\msbuild.build.jh netcore app.props
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.jh netcore app.props
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.jh netcore app.props
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\scopedcss\bundle\jh netcore app.styles.css
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\scopedcss\projectbundle\jh netcore app.bundle.scp.css
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\jh netcore app.dll
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\refint\jh netcore app.dll
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\jh netcore app.pdb
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\jh netcore app.genruntimeconfig.cache
+C:\Users\Josh\source\repos\jh netcore app\obj\Release\net6.0\ref\jh netcore app.dll

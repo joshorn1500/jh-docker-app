@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q89l5U1/N2CS+uVJaF2HV60Xg1+oZSF51avBdwlaXPyeQhWv7X6kvN1lUsdYIFYnjBbSD7k2KoIDRxIxqQvS4g==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Downloads\\jh netcore app\\jh netcore app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joshhorn\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}

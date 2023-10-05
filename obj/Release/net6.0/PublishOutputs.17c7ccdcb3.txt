@@ -1,0 +1,7 @@
+C:\Users\Josh\source\repos\jh netcore app\obj\Docker\publish\jh netcore app.exe
+C:\Users\Josh\source\repos\jh netcore app\obj\Docker\publish\appsettings.Development.json
+C:\Users\Josh\source\repos\jh netcore app\obj\Docker\publish\appsettings.json
+C:\Users\Josh\source\repos\jh netcore app\obj\Docker\publish\jh netcore app.dll
+C:\Users\Josh\source\repos\jh netcore app\obj\Docker\publish\jh netcore app.deps.json
+C:\Users\Josh\source\repos\jh netcore app\obj\Docker\publish\jh netcore app.runtimeconfig.json
+C:\Users\Josh\source\repos\jh netcore app\obj\Docker\publish\jh netcore app.pdb
